@@ -8,7 +8,7 @@ on Debian 12.6 with serial over USB.
 
 Apache NuttX      
 https://nuttx.apache.org/docs/latest/index.html       
-https://github.com/apache/nuttx
+https://github.com/apache/nuttx      
 https://github.com/apache/nuttx-apps
 
 Seeed Studio Xiao RP2040       
