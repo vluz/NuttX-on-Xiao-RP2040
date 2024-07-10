@@ -74,6 +74,9 @@ Modified from https://nuttx.apache.org/docs/latest/platforms/arm/rp2040/boards/s
    ```
 
   You now have a functional NuttX installed on your Xiao RP2040
-      
+
+  Enter `help` for help
+
+  
   ## Happy Hacking!
 
