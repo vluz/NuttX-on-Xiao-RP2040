@@ -6,13 +6,16 @@ on Debian 12.6 with serial over USB.
 
 ## Links
 
-Apache NuttX - https://nuttx.apache.org/docs/latest/index.html
+Apache NuttX      
+https://nuttx.apache.org/docs/latest/index.html       
+https://github.com/apache/nuttx
 
 Seeed Studio Xiao RP2040       
 https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html      
 https://wiki.seeedstudio.com/XIAO-RP2040/
 
-Mauser product link (Portugal) - https://mauser.pt/catalog/product_info.php?products_id=095-0493
+Mauser product link (Portugal)      
+https://mauser.pt/catalog/product_info.php?products_id=095-0493
 
 ## Install
 
@@ -51,7 +54,7 @@ Modified from https://nuttx.apache.org/docs/latest/platforms/arm/rp2040/boards/s
   _Alternatively you can download the `nuttx.uf2` from this repo._
 
 ### 4. Connect Seeed Studio Xiao RP2040 board to USB port while pressing BOOTSEL button.
-   The board will be detected as USB Mass Storage Device.
+   The board will be detected as USB Mass Storage Device.      
    Then copy "nuttx.uf2" into the device.
 
 ### 5. To access the console, open a terminal app and connect to the board com port at:      
@@ -61,7 +64,7 @@ Modified from https://nuttx.apache.org/docs/latest/platforms/arm/rp2040/boards/s
    1 stop bit     
    No flow control      
 
-   If no `nsh>` prompt, press enter and you should get a shell
+   If no `nsh>` prompt, press enter and you should get a prompt
 
    Try `uname -a`
 
