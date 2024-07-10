@@ -55,7 +55,7 @@ Modified from https://nuttx.apache.org/docs/latest/platforms/arm/rp2040/boards/s
 
 ### 4. Connect Seeed Studio Xiao RP2040 board to USB port while pressing BOOTSEL button.
    The board will be detected as USB Mass Storage Device.      
-   Then copy "nuttx.uf2" into the device.
+   Then copy `nuttx.uf2` into the device.
 
 ### 5. To access the console, open a terminal app and connect to the board com port at:      
    115200 bits per second      
