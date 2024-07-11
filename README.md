@@ -67,7 +67,7 @@ Modified from https://nuttx.apache.org/docs/latest/platforms/arm/rp2040/boards/s
 
    If no `nsh>` prompt, press enter and you should get a prompt
 
-   _It takes quite a few seconds to boot, please allow it time_
+   _It takes quite a few seconds to boot, please allow it time to finish_
 
    Try `uname -a`
 
